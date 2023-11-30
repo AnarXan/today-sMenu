@@ -1,6 +1,6 @@
 # menu
 
-menu page
+Flutter project - Meal advisor
 
 ## Getting Started
 
